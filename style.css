@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .demo{
+    @apply bg-green-500 m-4 border-4 border-black rounded-xl;
+} */
